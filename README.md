@@ -10,3 +10,10 @@ o	MLR tries to fit a regression line through a multidimensional space of data-po
 o	A linear relationship should exist between the Target and predictor variables.                     
 o	The regression residuals must be normally distributed.                       
 o	MLR assumes little or no multicollinearity (correlation between the independent variable) in data.
+
+## Libraries Used
+Numpy                        
+Pandas                            
+Seaborn                        
+Matplotlib                       
+Scikit learn                
