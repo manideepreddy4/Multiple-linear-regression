@@ -11,6 +11,14 @@ o	A linear relationship should exist between the Target and predictor variables.
 o	The regression residuals must be normally distributed.                       
 o	MLR assumes little or no multicollinearity (correlation between the independent variable) in data.
 
+This particular dataset holds data from 50 startups in New York, California, and Florida. The features in this dataset are R&D spending, Administration Spending, Marketing Spending, and location features, while the target variable is: Profit.
+
+1. R&D spending: The amount which startups are spending on Research and development.                            
+2. Administration spending: The amount which startups are spending on the Admin panel.                             
+3. Marketing spending: The amount which startups are spending on marketing strategies.                                  f
+4. State: To which state that particular startup belongs.                                        
+5. Profit: How much profit that particular startup is making.                               
+
 ## Libraries Used
 Numpy                        
 Pandas                            
